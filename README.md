@@ -33,6 +33,8 @@ As this app is in trial mode so use the following test card details to complete 
 ## Wireframes:
 [Click here to view Figma wireframe](https://www.figma.com/design/dFkV0DV8VAysXsLl4Oske9/foodDeliveryAppCollab?node-id=0-1&t=jAj3UzSrepcQ7BQB-1)
 
+[Click here to view image in GitHub](https://github.com/darrylad/Figma-Design-Portfolio/blob/d3040d3b4c43f149197d6257702296a2a3f92316/foodDeliveryAppCollab.jpg)
+
 # Thanks for reading! Hope you enjoy our App
 
 
